@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AmirVision
 - 👀 I’m interested in Crypto trading , website development and AI
 - 🌱 I’m currently learning java script
-- 📫 reach me on discord : AmirVision#4379
+- 📫 reach me on discord : AmirVision#7777
 
 <!---
 AmirVision/AmirVision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
